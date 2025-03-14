@@ -46,7 +46,7 @@ Several important data cleaning decisions are made particularly for Visualizatio
 
 I believe that home runs reflect the increasing emphasis on individual power in baseball, while the batting average represents a more stable measure of a team's overall offensive performance. In an era where home runs have become a dominant factor, analyzing how these two metrics have evolved could provide insight into whether the balance between individual strength and team coordination still plays a decisive role in the game. 
 
-2. **Animated Quadrant Scatter Plot** – To reveal correlations between variables.  
+2. **Animated Quadrant Scatter Plot** 
 
 The x-axis represents the average RBI per game, which serves as a measure of a team's overall offensive productivity. The y-axis reflects the RBI contribution rate, capturing how efficiently a team converts scoring opportunities into runs. The chart is divided into four quadrants, allowing for the classification of teams into distinct strategic archetypes based on their offensive productivity and efficiency. An animation slider is included to track changes over time, providing insight into how teams’ strategies and performance have evolved.
 
