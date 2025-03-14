@@ -1,8 +1,7 @@
 
 # The Development of MLB Team Performance
 
-## Live Dashboard
- [Click here](https://20004datavisualizationfinal-shnngl.streamlit.app/) 
+Live Dashboard: [Click here](https://20004datavisualizationfinal-shnngl.streamlit.app/) 
 
 ## Project Overview
 
@@ -38,6 +37,9 @@ Several important data cleaning decisions are made particularly for Visualizatio
     I found out that data in the early stage after 1871 ranges way different from the data in the last one hundred years. Therefore I looked back on the history and determined the year to start for this plot.
 2. Filtering MLB teams to current MLB Franchises only, excluding defunct teams and short-lived franchises.
 
+
+
+
 ---
 
 ## Methodology
@@ -51,15 +53,18 @@ I believe that home runs reflect the increasing emphasis on individual power in 
 The x-axis represents the average RBI per game, which serves as a measure of a team's overall offensive productivity. The y-axis reflects the RBI contribution rate, capturing how efficiently a team converts scoring opportunities into runs. The chart is divided into four quadrants, allowing for the classification of teams into distinct strategic archetypes based on their offensive productivity and efficiency. An animation slider is included to track changes over time, providing insight into how teams’ strategies and performance have evolved.
 
 
+
+
+
+
 ---
 
 ## Critical Analysis
 ### Limitations:
-- Using RBI to measure Offensive efficiency is incomplete as the overall offensive efficiency is complex and influenced by other factors like on-base percentage or slugging percentages as well.
-- The quadrant chart assumes that high RBI production and high contribution rate are universally positive, whre in reallife cases there are teams actively adopt defensive strategies for winning as well. 
-- The four quadrant are roughly defined by the mean, which might not be the best selection. 
+- **Incomplete Offensive Efficiency Metric**: Using RBI to measure offensive efficiency is limited, as overall offensive performance is influenced by other factors such as on-base percentage and slugging percentage.
+- **Assumption of High RBI as a Positive Indicator**: The quadrant chart assumes that high RBI production and a high contribution rate are universally positive. However, in practice, some teams may adopt defensive or small-ball strategies to win games.
+- **Quadrant Definition Based on Mean**: The four quadrants are defined based on the mean values of the dataset, which may not be the most accurate classification method for this type of analysis.
 
 ### Future Improvements:
-- Contextualize with rule changes and structural shifts during the history of MLB development to better understand what is going on behind the shifting of data.
-- Adding more factors to make the offensive metrics more universal
-
+- **Historical Context**: Incorporating major rule changes and structural shifts in MLB history could help explain underlying patterns in the data.
+- **Expanding Metrics**: Adding more offensive performance indicators could provide a more comprehensive view of team efficiency
