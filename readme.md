@@ -8,12 +8,12 @@ As highlighted in the film *Moneyball* discussed in class, the use of statistics
 
 This project demonstrates interactive visualizations of MLB team performance data using Streamlit. 
 
----
+
 
 ## Live Dashboard
  [Click here to view the Streamlit app](https://20004datavisualizationfinal-shnngl.streamlit.app/) 
 
----
+
 
 ## Data Management
 ### Data Source
