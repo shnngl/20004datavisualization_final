@@ -1,10 +1,12 @@
 
-# Data Visualization Project
+# The Development of MLB Team Performance
 
 
 ## Project Overview
-This project demonstrates interactive visualizations using Streamlit.  
-The goal is to explore trends and patterns in the dataset, providing insights through a combination of different visualization techniques.
+
+As highlighted in the film *Moneyball* discussed in class, the use of statistics has significantly reshaped the game of baseball. I was fascinated by how extensively baseball has been quantified when I first began learning about it. For this reason, I believe baseball data serves as an excellent dataset for data visualization.
+
+This project demonstrates interactive visualizations of MLB team performance data using Streamlit. 
 
 ---
 
@@ -60,12 +62,6 @@ Below are examples of the visualizations generated from the data:
 ### Future Improvements:
 - Incorporate additional data sources to increase dataset size.  
 - Use more advanced machine learning models to improve predictions.  
-
----
-
-## Extra Credit: Interactive Dashboard
-This interactive dashboard includes multiple visualization types and user controls (e.g., zoom, hover, and filter).  
-This enhances the user's ability to explore data dynamically.  
 
 ---
 
