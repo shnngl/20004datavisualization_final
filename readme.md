@@ -40,8 +40,6 @@ Several important data cleaning decisions are made particularly for Visualizatio
 
 
 
----
-
 ## Methodology
 ### Rationale for visualization selection
 1. **Dual-axis Line and Bar Chart** 
@@ -57,7 +55,7 @@ The x-axis represents the average RBI per game, which serves as a measure of a t
 
 
 
----
+
 
 ## Critical Analysis
 ### Limitations:
